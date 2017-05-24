@@ -1,2 +1,2 @@
-blueocean:1.0.0
+blueocean:1.0.1
 openshift-client:0.9.3
